@@ -1,4 +1,4 @@
-# EnergyData
+# Energy Theft Detection using DL, CNN, LSTM, Transformer, ImageTransfomation
 Time Series Data Analysis
 
 Energy Theft Detection using image transformation technique and tiled convolutional neural network
